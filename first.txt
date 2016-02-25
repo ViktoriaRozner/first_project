@@ -1,1 +1,3 @@
-Hello JAva Junior Traing!
+Hello JAva Junior Training!
+Somethnig else
+
